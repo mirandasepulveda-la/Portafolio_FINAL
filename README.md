@@ -46,7 +46,7 @@
 2. Poder encontrar una diseñadora que pueda contratar.
 
 
-# Usuario Extremo 
+### Usuario Extremo 
 
 → Marcela Escobar (45)
 
