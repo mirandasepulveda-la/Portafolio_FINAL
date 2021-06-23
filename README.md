@@ -102,6 +102,11 @@ Aunque mis antecedentes son en su mayoria duocormaticas y bastante minimalistas 
 
 ![](https://raw.githubusercontent.com/mirandasepulveda-la/Portafolio_FINAL/50c712d55288416b9f14e9208e0d63071f096880/imagenes/moodboard.png)
 
-
+1. Combinación de Tipografías Gothic y Black a usar en página web. 
+2. Estilo de fotografia para exponer mis obras de fotoedición, siendo este en escala de grises y captura retrato. 
+3. uso de Iconografía estilo doodle o sketch por sobre el uso de iconos vector. 
+4. Paleta de colores a usar en página web. 
+5. Tipo de encuadre para fotografias de objetos, en mi caso de esculturas que he realizado. 
+6. Uso de fotografía primer plano para exponer trabajos relacionados a maquillaje en modelos que he realizado.  
 
 
