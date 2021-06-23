@@ -62,5 +62,20 @@
 #### Potential Solutions: 
 1. Poder conocer mis tendencias en el diseño.
  
+ 
+
+## ¿Qué existe que es similar a la propuesta?
+
+#### Antecedente 1 
+
+She will grow out of it es una página web que expone los trabajos plásticos realizados por Paige, en esta página ella describe como comenzó su trabajo, conecta a sus otros links como Facebook e instagram y ademas una sección para contactarla. 
+
+#### Antecedente 2 
+
+Kojima productions es una página web que expone todos los proyectos producidos por la compañia de Hideo Kojima, son expuestos de manera interactiva y con una breve descripción. Muy atractivo. Lamentablemente carga mucho en cargar mi computador casi despega tratando de hacerlo. 
+#### Antecedente 3
+#### Antecedente 4
+#### Antecedente 5
+#### Antecedente 6
 
 
