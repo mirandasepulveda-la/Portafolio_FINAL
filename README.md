@@ -93,6 +93,8 @@ David Heinman tiene otro portafolio minimalista con grandes tamaños de tipograf
 
 Aunque mis antecedentes son en su mayoria duocormaticas y bastante minimalistas mi intencion es agregarle colores mas vibrantes. a continuacion un moodboard que ejemplifique el estilo visual que me gustaria incluir en mi pag. web. 
 
+![] (https://github.com/mirandasepulveda-la/Portafolio_FINAL/blob/a01a573cf6b53a98862c56d78c951d4fd59feabf/imagenes/moodboard.png)
+
 
 
 
