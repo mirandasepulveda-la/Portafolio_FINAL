@@ -73,7 +73,10 @@ She will grow out of it es una página web que expone los trabajos plásticos re
 #### Antecedente 2 
 
 Kojima productions es una página web que expone todos los proyectos producidos por la compañia de Hideo Kojima, son expuestos de manera interactiva y con una breve descripción. Muy atractivo. Lamentablemente carga mucho en cargar mi computador casi despega tratando de hacerlo. 
+
 #### Antecedente 3
+
+Portafolio de Esperanza Ortega, su página web provee un menu muy ordenado para poder ver los 
 #### Antecedente 4
 #### Antecedente 5
 #### Antecedente 6
