@@ -1,13 +1,13 @@
 # Portafolio_FINAL
 
-##¿Para qué? 
+## ¿Para qué? 
 1. Exponer todos mis trabajos y obras de manera más personalizada. Actualmente uso Behance e instagram para mostrar mi trabajo sin embargo ambos son bastante rígidos y con diseño preestablecidos. Al crear mi propia página web podré comunicar de mejor manera mi carácter y mis tendencias en el diseño. 
 2. Conectar con otras de las plataformas que uso a menudo, tales como Twitch donde realizo streams de artes plasticas, Discord e instagram. 
 
 
-##¿Para quiénes?
+## ¿Para quiénes?
 
-#Usuario Promedio 
+# Usuario Promedio 
 
 → Sarita Saravia (20)
 
@@ -27,7 +27,7 @@
 
 
 
-#Usuario Extremo 
+# Usuario Extremo 
 
 → Felipe Walker (45)
 
@@ -46,7 +46,7 @@
 2. Poder encontrar una diseñadora que pueda contratar.
 
 
-#Usuario Extremo 
+# Usuario Extremo 
 
 → Marcela Escobar (45)
 
