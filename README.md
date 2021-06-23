@@ -76,9 +76,23 @@ Kojima productions es una página web que expone todos los proyectos producidos 
 
 #### Antecedente 3
 
-Portafolio de Esperanza Ortega, su página web provee un menu muy ordenado para poder ver los 
+Portafolio de Esperanza Ortega, su página web provee un menu muy ordenado para poder ver sus trabajos según categoría. 
+
 #### Antecedente 4
+
+Aleixo.me es un portafolio muy breve combiando con un CV. Los trabajos tienen gran abarque visual con imagenes grandes además que nos dan la opcion de hacer "drag" y deslizar para ver mas imágenes del mismo proyecto sin tener que salir de la página web.
+
 #### Antecedente 5
+
+Steven Hanley. Su página web es minimalista con solo dos colores y gran tamaño de tipografía. Solo hay imagenes una vez que se entra al proyecto específico por lo tanto evita la saturacion de información, algo que puede darse en la pagina web de Paige (Antecedente 1) 
+
 #### Antecedente 6
+David Heinman tiene otro portafolio minimalista con grandes tamaños de tipografías. El scroll hacia abajo tiene grnades espacios entre los elementos lo cual ayuda a la lectura de sus proyectos. 
+
+## ¿Qué existe que puede inspirar la propuesta? 
+
+Aunque mis antecedentes son en su mayoria duocormaticas y bastante minimalistas mi intencion es agregarle colores mas vibrantes. a continuacion un moodboard que ejemplifique el estilo visual que me gustaria incluir en mi pag. web. 
+
+
 
 
