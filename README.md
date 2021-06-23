@@ -67,26 +67,33 @@
 ## ¿Qué existe que es similar a la propuesta?
 
 #### Antecedente 1 
+![](https://raw.githubusercontent.com/mirandasepulveda-la/Portafolio_FINAL/50c712d55288416b9f14e9208e0d63071f096880/imagenes/1.png)
 
 She will grow out of it es una página web que expone los trabajos plásticos realizados por Paige, en esta página ella describe como comenzó su trabajo, conecta a sus otros links como Facebook e instagram y ademas una sección para contactarla. 
 
 #### Antecedente 2 
+![](https://raw.githubusercontent.com/mirandasepulveda-la/Portafolio_FINAL/50c712d55288416b9f14e9208e0d63071f096880/imagenes/2.png)
 
 Kojima productions es una página web que expone todos los proyectos producidos por la compañia de Hideo Kojima, son expuestos de manera interactiva y con una breve descripción. Muy atractivo. Lamentablemente carga mucho en cargar mi computador casi despega tratando de hacerlo. 
 
 #### Antecedente 3
+![](https://raw.githubusercontent.com/mirandasepulveda-la/Portafolio_FINAL/50c712d55288416b9f14e9208e0d63071f096880/imagenes/3.png)
 
 Portafolio de Esperanza Ortega, su página web provee un menu muy ordenado para poder ver sus trabajos según categoría. 
 
 #### Antecedente 4
+![](https://raw.githubusercontent.com/mirandasepulveda-la/Portafolio_FINAL/50c712d55288416b9f14e9208e0d63071f096880/imagenes/4.png)
 
 Aleixo.me es un portafolio muy breve combiando con un CV. Los trabajos tienen gran abarque visual con imagenes grandes además que nos dan la opcion de hacer "drag" y deslizar para ver mas imágenes del mismo proyecto sin tener que salir de la página web.
 
 #### Antecedente 5
+![](https://raw.githubusercontent.com/mirandasepulveda-la/Portafolio_FINAL/50c712d55288416b9f14e9208e0d63071f096880/imagenes/5.png)
 
 Steven Hanley. Su página web es minimalista con solo dos colores y gran tamaño de tipografía. Solo hay imagenes una vez que se entra al proyecto específico por lo tanto evita la saturacion de información, algo que puede darse en la pagina web de Paige (Antecedente 1) 
 
 #### Antecedente 6
+![](https://raw.githubusercontent.com/mirandasepulveda-la/Portafolio_FINAL/50c712d55288416b9f14e9208e0d63071f096880/imagenes/6.png) 
+
 David Heinman tiene otro portafolio minimalista con grandes tamaños de tipografías. El scroll hacia abajo tiene grnades espacios entre los elementos lo cual ayuda a la lectura de sus proyectos. 
 
 ## ¿Qué existe que puede inspirar la propuesta? 
