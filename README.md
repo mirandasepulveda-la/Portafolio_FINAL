@@ -7,7 +7,7 @@
 
 ## ¿Para quiénes?
 
-# Usuario Promedio 
+### Usuario Promedio 
 
 → Sarita Saravia (20)
 
@@ -27,7 +27,7 @@
 
 
 
-# Usuario Extremo 
+### Usuario Extremo 
 
 → Felipe Walker (45)
 
